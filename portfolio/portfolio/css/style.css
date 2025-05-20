@@ -259,6 +259,15 @@ img {
   line-height: 1.8;
 }
 
+.profile-body a {
+  color: #3C1F05;
+  font-weight: bold;
+}
+
+.profile-body a:hover{
+  color: #bddaeb;
+}
+
 .profile-body p:not(:last-child) {
   margin-bottom: 30px;
 }
@@ -514,6 +523,7 @@ img {
   .profile-body p:not(:last-child) {
     margin-bottom: 20px;
   }
+  
 
   /* フッター */
   .footer {
