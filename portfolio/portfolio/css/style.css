@@ -168,9 +168,9 @@ img {
 
 .works-item {
   width: 31.74603%;
-  margin-right: 1.58730%;
   margin-bottom: 40px;
   color: #3C1F05;
+  text-align: center;
 }
 
 .works-item:hover {
@@ -345,6 +345,11 @@ img {
   font-size: 18px;
   margin-bottom: 5px;
   padding-left: 1em;
+}
+
+
+.article-body a:hover{
+  color: #bddaeb;
 }
 
 .article-body img {
